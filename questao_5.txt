@@ -1,0 +1,57 @@
+dados da pergunta:
+carro 90 km/h
+caminhão 80 km/h
+
+fórmula da velocidade
+vel. média = distancia / tempo
+
+Carro:
+90 = 125 / t
+t = 125 / 90
+t = 1,39h
+t = 5004 segundos
+
+3 Pedágios de 5 minutos, gastos 15 minutos de pedágio
+15 minutos = 900s
+
+tempo total do carro = 5004 + 900 = 5904s
+
+
+
+Caminhão:
+80 = 125 / t
+t = 125 / 80
+t = 1,56h
+t = 5616s
+
+
+Momento em que carro cruza com o caminhão
+5904s / 2 = 2952s
+Explicação: no segundo 2952 o carro irá cruzar com o caminhão
+
+Momento em que o caminhão cruza com o carro
+5616s / 2 = 2808s
+Explicação: no segundo 2808 o caminhão irá cruzar com o carro
+
+Portanto, o percurso do carro de Ribeirão Preto a Barretos terá se afastado de Ribeirão:
+
+2952 / 3600 = 0,82h
+
+
+90 = d / 0,82
+d = 90 * 0,82
+d = 73,8 km
+
+O carro está 73,8 km de distancia de Ribeirão Preto
+
+
+O caminhão por sua vez:
+
+2808 / 3600 = 0,78
+
+80 = d / 0,78
+d = 80 * 0,78
+d = 62,4 km
+
+O caminhão está a 62,6 km de barretos, para chegar em Ribeirão preto terá que percorrer mais 62,6 km, oque o torna mais próximo de Ribeirão preto que o carro.
+125 - 62,4 = 62,6 km
